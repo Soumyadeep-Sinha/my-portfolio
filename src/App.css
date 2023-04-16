@@ -596,6 +596,12 @@ body {
 }
 
 @media screen and (max-width: 1000px) {
+  html, body{
+    background: linear-gradient(180deg, #251B37, #181D31, #282A3A);
+  }
+  .Navbar{
+    position: relative;
+  }
   .NavRight {
     display: none;
   }
@@ -624,7 +630,7 @@ body {
   }
 
   .Welcome {
-    height: 60vh;
+    height: 85vh;
   }
 
   .WelcomeLeft {
@@ -645,6 +651,8 @@ body {
   }
 
   .abouts img {
+    width: 35%;
+    height: 35%;
     border-radius: 100px;
   }
 
@@ -688,5 +696,9 @@ body {
   .skillSet p {
     font-size: 15px;
     padding: 10px;
+  }
+
+  .contact{
+    background-color: #181818;
   }
 }
