@@ -6,7 +6,7 @@ const About = () => {
             <h2>About Me</h2>
             <div className="abouts">
                 <img src={profile} alt='profilepic' />
-                <p>Thank you for visiting my website. I am an engineering student pursuing B.Tech in Engineering Mathematics and Computing from Madhav Institute of Technology, Gwalior, India. I am currently living in Bhopal, India. I Like to build creative things and learn about new technologies. I am currently learning Full Stack Web Development on the MERN stack and web3 development. I have plans to learn android devopment and Unreal engine in future. I am open to work and internships.</p>
+                <p>Thank you for visiting my website. I am an engineering student pursuing B.Tech in Engineering Mathematics and Computing from Madhav Institute of Technology, Gwalior, India. I am currently living in Bhopal, India. I Like to build creative things and learn about new technologies. I am currently learning Full Stack Web Development on the MERN stack.I am open to work and internships.</p>
             </div>
         </div>
     );

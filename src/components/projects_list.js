@@ -6,18 +6,18 @@ import project3 from '../image/project3.png'
 const projectList = [
     {
         id : 1,
-        name: "web3 blockchain app",
+        name: "Hospital Management App",
         image: project1,
-        link: "https://github.com/Soumyadeep-Sinha/WEB-3.0-BLOCKCHAIN-APP",
-        about: "This is a web3.0 ethereum transaction simulator that has additional features like a crypto mining simulator, live prices, check balance and more.(Click on image to view source code). Made with React, Solidity, web3, ethers."
+        link: "https://github.com/Soumyadeep-Sinha/E-Hospital",
+        about: "This is a hospital management app. Users can register their loved ones and keep track of appointments.It also features an admin panel from where everything can be controlled."
     },
 
     {
         id : 2,
-        name: "Hospital Management app",
+        name: "STEALTH",
         image: project3,
-        link: "https://github.com/Soumyadeep-Sinha/E-Hospital",
-        about: "This is a complete hospital management system with full user and admin CRUD controls and a special chatbox, It uses NodeJS, ExpressJS, MongoDB, mongoose, socket.io, etc.(Click on image to view source code)"
+        link: "https://github.com/Soumyadeep-Sinha/STEALTH",
+        about: "A Privcy focuced social media app with a strong password encryption, and many nice features. It is currently built with ejs, and has a future goal to be built on React."
     },
 
     {

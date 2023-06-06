@@ -16,16 +16,13 @@ const Languages = () => {
                     </div>
 
                     <div className='skillSet'>
-                        <p>Javascript / Web Development / MERN stack</p>
+                        <p>Javascript / Web Development</p>
                     </div>
 
                     <div className='skillSet'>
                         <p>DBMS / MySQL / MongoDB / mongoose</p>
                     </div>
 
-                    <div className='skillSet'>
-                        <p>Others : MS Office / Google Workspace</p>
-                    </div>
                 </div>
 
                 <div className="certification">

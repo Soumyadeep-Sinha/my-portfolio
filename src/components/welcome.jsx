@@ -18,7 +18,6 @@ const Welcome = () => {
                             'Programmer .',
                             'Web Developer .',
                             'Tech Enthusiast .',
-                            'Web 3 Enthusiast .',
                             'Creative Thinker .',
                             'Gamer .'
                         ],
