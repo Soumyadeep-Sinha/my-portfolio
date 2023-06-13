@@ -17,7 +17,7 @@ const projectList = [
         name: "STEALTH",
         image: project3,
         link: "https://github.com/Soumyadeep-Sinha/STEALTH",
-        about: "A Privcy focuced social media app with a strong password encryption, and many nice features. It is currently built with ejs, and has a future goal to be built on React."
+        about: "A Privacy focuced and less distracting social media app with a strong password encryption, and many nice features. It is currently built with ejs, and has a future goal to be built on React."
     },
 
     {
@@ -25,7 +25,7 @@ const projectList = [
         name: "Live Code Playground",
         image: project2,
         link: "https://github.com/Soumyadeep-Sinha/Code-playground-HTML-CSS-JS",
-        about: "This is a code playground for html, css and javascript, it comes with a theme changer.It is based on HTML, CSS, and Javascript (Click on image to view source code)."
+        about: "This is a code playground for html, css and javascript, it comes with dark/light themes.It is based on HTML, CSS, and Javascript (Click on image to view source code)."
     },
 ]
 
