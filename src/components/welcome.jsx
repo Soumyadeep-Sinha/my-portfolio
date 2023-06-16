@@ -4,7 +4,7 @@ import logo from '../image/myavatar.png'
 import github from '../image/github.png'
 import instagram from '../image/instagram.png'
 import linkedin from '../image/linkedin.svg'
-import twitter from '../image/twitter.png'
+// import twitter from '../image/twitter.png'
 import cv from '../static/CV.pdf'
 
 const Welcome = () => {
@@ -29,7 +29,6 @@ const Welcome = () => {
                 <div className='profileLinks'>
                     <a href='https://github.com/Soumyadeep-Sinha'><img src={github} alt='instalink' /></a>
                     <a href='https://www.linkedin.com/in/soumyadeep-sinha-2a25b1234/'><img src={linkedin} alt='instalink' /></a>
-                    <a href='https://twitter.com/PantherX84'><img src={twitter} alt='instalink' /></a>
                     <a href='https://www.instagram.com/deep0842/'><img src={instagram} alt='instalink' /></a>
                 </div>
                 <div className='cvbtn'>

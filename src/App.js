@@ -35,9 +35,6 @@ function App() {
       <div className='projectSection'>
         {projectList.map(createcard)}
       </div>
-      <div className='viewMore'>
-        <a href="https://github.com/Soumyadeep-Sinha" target="_blank" rel="noopener noreferrer">view more</a>
-      </div>
       <div className='selfclosingdiv' />
       <Contact />
       <div className='selfclosingdiv' />
