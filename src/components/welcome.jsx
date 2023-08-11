@@ -5,7 +5,7 @@ import github from '../image/github.png'
 import instagram from '../image/instagram.png'
 import linkedin from '../image/linkedin.svg'
 // import twitter from '../image/twitter.png'
-import cv from '../static/CV.pdf'
+import cv from '../static/Resume-2.pdf'
 
 const Welcome = () => {
     return (

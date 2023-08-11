@@ -160,12 +160,13 @@ body {
   height: 40px;
   width: 40px;
   border-radius: 50px;
-  transition: 0.5s;
+  transition: 0.3s;
 }
 
 .profileLinks img:hover {
-  box-shadow: 0 0 5px 5px rgb(47, 241, 255);
-  transition: 0.5s;
+  box-shadow: 0 0 5px 5px rgb(255, 255, 255);
+  transition: 0.3s;
+  scale: 1.2;
 }
 
 .WelcomeRight {
@@ -437,12 +438,12 @@ body {
   text-decoration: none;
   padding: 10px 20px;
   border-radius: 50px;
-  transition: 0.5s;
+  transition: 0.3s;
 }
 
 .viewMore a:hover {
-  box-shadow: 0 0 10px 5px #61dafb;
-  transition: 0.5s;
+  box-shadow: 0 0 10px 5px #7dfb61;
+  transition: 0.3s;
 }
 
 /* contact */
@@ -703,4 +704,13 @@ body {
   .contact{
     background-color: #181818;
   }
+}
+
+.viewMore{
+  color: white;
+  text-decoration: none;
+}
+
+.viewMore:hover{
+  color: greenyellow;
 }
