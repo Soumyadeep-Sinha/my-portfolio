@@ -32,7 +32,7 @@ const Welcome = () => {
                     <a href='https://www.instagram.com/deep0842/'><img src={instagram} alt='instalink' /></a>
                 </div>
                 <div className='cvbtn'>
-                    <a href={cv} download>Download CV</a>
+                    <a href={cv} download>My Resume</a>
                 </div>
             </div>
             <div className='WelcomeRight'>
