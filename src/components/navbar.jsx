@@ -29,6 +29,7 @@ const Navbar = () => {
                 <a href='#skills'>Skills</a>
                 <a href='#project'>Projects</a>
                 <a href='#contacts'>Contact</a>
+                <a href='https://github.com/Soumyadeep-Sinha' target='_blank' rel='noopener noreferrer'>Github</a>
             </div>
         </div>
     );

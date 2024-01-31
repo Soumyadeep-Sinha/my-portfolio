@@ -7,6 +7,7 @@ const Projects = (props) => {
                 <div className="desc">
                     <h2>{props.name}</h2>
                     <p>{props.about}</p>
+                    <a href={props.link} target="_blank" rel="noopener noreferrer" className='LinkBtn'> Source Code </a>
                 </div>
             </div>
         </>

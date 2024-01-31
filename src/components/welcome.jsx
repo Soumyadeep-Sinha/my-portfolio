@@ -12,19 +12,19 @@ const Welcome = () => {
         <div className='Welcome' id='welcomesection'>
             <div className='WelcomeLeft'>
                 <h1>Hi, I am Soumyadeep</h1>
-                <h2>I am a&nbsp;<Typewriter
+                <h2>I am a&nbsp;<span className='typeWriter'><Typewriter
                     options={{
                         strings: [
-                            'Programmer .',
-                            'Web Developer .',
-                            'Tech Enthusiast .',
-                            'Creative Thinker .',
-                            'Gamer .'
+                            'Programmer.',
+                            'Web Developer.',
+                            'Tech Enthusiast.',
+                            'Creative Thinker.',
+                            'Gamer.'
                         ],
                         autoStart: true,
                         loop: true,
                     }}
-                /></h2>
+                /></span></h2>
                 <h3>I am ready to learn something new :)</h3>
                 <div className='profileLinks'>
                     <a href='https://github.com/Soumyadeep-Sinha'><img src={github} alt='instalink' /></a>
