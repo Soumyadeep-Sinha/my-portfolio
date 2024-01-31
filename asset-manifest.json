@@ -1,9 +1,9 @@
 {
-  "main.css": "/my-portfolio/static/css/main.5e5b640d.chunk.css",
-  "main.js": "/my-portfolio/static/js/main.ea4b4436.chunk.js",
-  "main.js.map": "/my-portfolio/static/js/main.ea4b4436.chunk.js.map",
-  "static/js/1.a7390144.chunk.js": "/my-portfolio/static/js/1.a7390144.chunk.js",
-  "static/js/1.a7390144.chunk.js.map": "/my-portfolio/static/js/1.a7390144.chunk.js.map",
+  "main.css": "/my-portfolio/static/css/main.38168974.chunk.css",
+  "main.js": "/my-portfolio/static/js/main.8514571b.chunk.js",
+  "main.js.map": "/my-portfolio/static/js/main.8514571b.chunk.js.map",
+  "static/js/1.ee2e13c6.chunk.js": "/my-portfolio/static/js/1.ee2e13c6.chunk.js",
+  "static/js/1.ee2e13c6.chunk.js.map": "/my-portfolio/static/js/1.ee2e13c6.chunk.js.map",
   "runtime~main.js": "/my-portfolio/static/js/runtime~main.f2bb3e8d.js",
   "runtime~main.js.map": "/my-portfolio/static/js/runtime~main.f2bb3e8d.js.map",
   "static/media/github.png": "/my-portfolio/static/media/github.89c2c067.png",
@@ -18,8 +18,11 @@
   "static/media/certificate6.png": "/my-portfolio/static/media/certificate6.7d256837.png",
   "static/media/project1.png": "/my-portfolio/static/media/project1.860f8bd3.png",
   "static/media/project3.png": "/my-portfolio/static/media/project3.f56e48a0.png",
-  "static/css/main.5e5b640d.chunk.css.map": "/my-portfolio/static/css/main.5e5b640d.chunk.css.map",
+  "static/media/project4.png": "/my-portfolio/static/media/project4.f143d338.png",
+  "static/media/project5.png": "/my-portfolio/static/media/project5.f7abd6b5.png",
+  "static/media/project6.png": "/my-portfolio/static/media/project6.21f7fa5d.png",
+  "static/css/main.38168974.chunk.css.map": "/my-portfolio/static/css/main.38168974.chunk.css.map",
   "index.html": "/my-portfolio/index.html",
-  "precache-manifest.dfe4837176d1266d0f8df058fcb58aad.js": "/my-portfolio/precache-manifest.dfe4837176d1266d0f8df058fcb58aad.js",
+  "precache-manifest.88118546c79824129f2a3a3f8c17f3c5.js": "/my-portfolio/precache-manifest.88118546c79824129f2a3a3f8c17f3c5.js",
   "service-worker.js": "/my-portfolio/service-worker.js"
 }
